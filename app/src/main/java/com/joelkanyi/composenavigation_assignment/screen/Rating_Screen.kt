@@ -47,7 +47,7 @@ fun Rating_Screen(
             Modifier.fillMaxSize(),
             contentAlignment = Alignment.Center
         ) {
-            Text(text = "Rate Me using a five Star i.e *,**,***,****,*****", fontWeight= FontWeight.ExtraBold)
+            Text(text = "Rate Me *e.g 4.5", fontWeight= FontWeight.ExtraBold)
         }
     }
 }
